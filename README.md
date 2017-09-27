@@ -1,4 +1,4 @@
-![cf](https://i.imgur.com/7v5ASc8.png) 23: Components and Routing
+![DV](https://www.deltavcodeschool.com/wp-content/uploads/DeltaV.png) 23: Components and Routing
 ======
 
 ## Submission Instructions
